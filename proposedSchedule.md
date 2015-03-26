@@ -46,7 +46,7 @@
 
 ##Afternoon session 
 
-    14:00 - 15:15: Case study 5 - The Site Based Data Curation (SBDC) Project. Andrea K. Thomer
+    14:00 - 15:15: Case study 5 - Systems Analysis and Design for Data Curation. Nicholas Weber. 
     15:15 - 15:30: Coffee break
-    15:30 - 17:15: Case Study 6 - ?  
+    15:30 - 17:15: Case Study 6 - Stan Smith Research Data Archive. Andrea K. Thomer.   
     16:45 - 17:15: Plenary closing session 
