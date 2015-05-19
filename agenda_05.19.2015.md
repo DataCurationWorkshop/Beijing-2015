@@ -34,3 +34,4 @@
 - We need affiliated partners: University of Oxford, UW (?) 
 - We need list of places where we have done this in the past: HKU + BIT
 - We need testimonials from previous students "Best workshop I've ever attended..." 
+- We need a way of formalizing agreements re. payments, agendas, lodging, etc
